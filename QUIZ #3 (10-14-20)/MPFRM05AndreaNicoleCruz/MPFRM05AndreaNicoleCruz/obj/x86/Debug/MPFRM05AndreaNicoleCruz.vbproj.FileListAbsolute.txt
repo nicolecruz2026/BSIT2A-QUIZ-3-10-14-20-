@@ -1,0 +1,20 @@
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\bin\Debug\MPFRM05AndreaNicoleCruz.exe
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\bin\Debug\MPFRM05AndreaNicoleCruz.pdb
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\bin\Debug\MPFRM05AndreaNicoleCruz.xml
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\WindowsApplication1.MPFRM01AndreaNicoleCruz.resources
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\WindowsApplication1.MPFRM02AndreaNicoleCruz.resources
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\MPFRM05AndreaNicoleCruz.vbproj.GenerateResource.Cache
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\MPFRM05AndreaNicoleCruz.exe
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\MPFRM05AndreaNicoleCruz.xml
+C:\Users\nicole\Desktop\New folder\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\MPFRM05AndreaNicoleCruz.pdb
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\MPFRM05AndreaNicoleCruz.exe
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\MPFRM05AndreaNicoleCruz.xml
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\MPFRM05AndreaNicoleCruz.pdb
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\bin\Debug\MPFRM05AndreaNicoleCruz.exe
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\bin\Debug\MPFRM05AndreaNicoleCruz.pdb
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\bin\Debug\MPFRM05AndreaNicoleCruz.xml
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\WindowsApplication1.MPFRM01AndreaNicoleCruz.resources
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\WindowsApplication1.MPFRM02AndreaNicoleCruz.resources
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\QUIZ #3 (10-14-20)\MPFRM05AndreaNicoleCruz\MPFRM05AndreaNicoleCruz\obj\x86\Debug\MPFRM05AndreaNicoleCruz.vbproj.GenerateResource.Cache
